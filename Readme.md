@@ -35,6 +35,6 @@ If these techniques do not yield satisfactory results, proceed to the finetuning
 Finetuning can create a specialized model tailored for the task at hand. In some cases, finetuning alone may not be sufficient. For example:
 
 - **Medical Applications**: The language used in medical contexts differs from common usage. To capture the nuances and terminology, it may be better to start with pretraining on domain-specific data.
-- Case Study: BloombergGPT**: This model was pretrained on 51% financial data and 49% common usage data to better understand financial language and concepts.
+- Case Study: BloombergGPT: This model was pretrained on 51% financial data and 49% common usage data to better understand financial language and concepts.
 
 By following these steps and considering various techniques, you can make an informed decision on whether to finetune an LLM or explore alternative approaches for your specific task.
